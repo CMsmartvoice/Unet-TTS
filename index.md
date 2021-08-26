@@ -21,21 +21,21 @@ OneShot-TTS + WaveRNN
 <audio src="res/ref/qsy_src.wav" controls preload></audio>
 
 #### *Synthesized*
-|    |RTVC+GST  |OneShot-TTS|
-|----| ---- | ---- |
-|same text as reference|<audio src="res/rtvc/qsy_1.wav" controls preload></audio>|<audio src="res/adain/qsy_1.wav" controls preload></audio>|
-|arbitrary  text|<audio src="res/rtvc/qsy_2.wav" controls preload></audio>|<audio src="res/adain/qsy_2.wav" controls preload></audio>|
-|arbitrary  text|<audio src="res/rtvc/qsy_3.wav" controls preload></audio>|<audio src="res/adain/qsy_3.wav" controls preload></audio>|
-|arbitrary  text|<audio src="res/rtvc/qsy_4.wav" controls preload></audio>|<audio src="res/adain/qsy_4.wav" controls preload></audio>|
+             |  RTVC+GST  | OneShot-TTS
+------------ |------------|------------
+same text as reference|<audio src="res/rtvc/qsy_1.wav" controls preload></audio>|<audio src="res/adain/qsy_1.wav" controls preload></audio>
+arbitrary  text       |<audio src="res/rtvc/qsy_2.wav" controls preload></audio>|<audio src="res/adain/qsy_2.wav" controls preload></audio>
+arbitrary  text       |<audio src="res/rtvc/qsy_3.wav" controls preload></audio>|<audio src="res/adain/qsy_3.wav" controls preload></audio>
+arbitrary  text       |<audio src="res/rtvc/qsy_4.wav" controls preload></audio>|<audio src="res/adain/qsy_4.wav" controls preload></audio>
 - - -
 
 #### *Reference*
 <audio src="res/ref/mini_src.wav" controls preload></audio>
 
 #### *Synthesized*
-|    |RTVC+GST  |OneShot-TTS|
-|----| ---- | ---- |
-|same text as reference|<audio src="res/rtvc/mini_1.wav" controls preload></audio>|<audio src="res/adain/mini_1.wav" controls preload></audio>|
-|arbitrary  text|<audio src="res/rtvc/mini_2.wav" controls preload></audio>|<audio src="res/adain/mini_2.wav" controls preload></audio>|
-|arbitrary  text|<audio src="res/rtvc/mini_3.wav" controls preload></audio>|<audio src="res/adain/mini_3.wav" controls preload></audio>|
-|arbitrary  text|<audio src="res/rtvc/mini_4.wav" controls preload></audio>|<audio src="res/adain/mini_4.wav" controls preload></audio>|
+             |  RTVC+GST  | OneShot-TTS
+------------ |------------|------------
+same text as reference|<audio src="res/rtvc/mini_1.wav" controls preload></audio>|<audio src="res/adain/mini_1.wav" controls preload></audio>
+arbitrary  text|<audio src="res/rtvc/mini_2.wav" controls preload></audio>|<audio src="res/adain/mini_2.wav" controls preload></audio>
+arbitrary  text|<audio src="res/rtvc/mini_3.wav" controls preload></audio>|<audio src="res/adain/mini_3.wav" controls preload></audio>
+arbitrary  text|<audio src="res/rtvc/mini_4.wav" controls preload></audio>|<audio src="res/adain/mini_4.wav" controls preload></audio>
