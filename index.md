@@ -20,14 +20,26 @@ OneShot-TTS + WaveRNN
 #### *Reference*
 <audio src="res/ref/qsy_src.wav" controls preload></audio>
 
-#### *Synthesized*
-**RTVC+GST**: <audio src="res/rtvc/qsy_1.wav" controls preload></audio><audio src="res/rtvc/qsy_2.wav" controls preload></audio><audio src="res/rtvc/qsy_3.wav" controls preload></audio><audio src="res/rtvc/qsy_4.wav" controls preload></audio>
-**MyMethod**: <audio src="res/adain/qsy_1.wav" controls preload></audio><audio src="res/adain/qsy_2.wav" controls preload></audio><audio src="res/adain/qsy_3.wav" controls preload></audio><audio src="res/adain/qsy_4.wav" controls preload></audio>
+#### *Synthesized (same text as reference)*
+**RTVC+GST**: <audio src="res/rtvc/qsy_1.wav" controls preload></audio>
+
+**MyMethod**: <audio src="res/adain/qsy_1.wav" controls preload></audio>
+
+#### *Synthesized (arbitrary text)*
+**RTVC+GST**: <audio src="res/rtvc/qsy_2.wav" controls preload></audio><audio src="res/rtvc/qsy_3.wav" controls preload></audio><audio src="res/rtvc/qsy_4.wav" controls preload></audio>
+
+**MyMethod**: <audio src="res/adain/qsy_2.wav" controls preload></audio><audio src="res/adain/qsy_3.wav" controls preload></audio><audio src="res/adain/qsy_4.wav" controls preload></audio>
 - - -
 
 #### *Reference*
 <audio src="res/ref/mini_src.wav" controls preload></audio>
 
-#### *Synthesized*
-**RTVC+GST**: <audio src="res/rtvc/min_1.wav" controls preload></audio><audio src="res/rtvc/min_2.wav" controls preload></audio><audio src="res/rtvc/min_3.wav" controls preload></audio><audio src="res/rtvc/min_4.wav" controls preload></audio>
-**MyMethod**: <audio src="res/adain/min_1.wav" controls preload></audio><audio src="res/adain/min_2.wav" controls preload></audio><audio src="res/adain/min_3.wav" controls preload></audio><audio src="res/adain/min_4.wav" controls preload></audio>
+#### *Synthesized (same text as reference)*
+**RTVC+GST**: <audio src="res/rtvc/min_1.wav" controls preload></audio>
+
+**MyMethod**: <audio src="res/adain/min_1.wav" controls preload></audio>
+
+#### *Synthesized (arbitrary text)*
+**RTVC+GST**: <audio src="res/rtvc/min_2.wav" controls preload></audio><audio src="res/rtvc/min_3.wav" controls preload></audio><audio src="res/rtvc/min_4.wav" controls preload></audio>
+
+**MyMethod**: <audio src="res/adain/min_2.wav" controls preload></audio><audio src="res/adain/min_3.wav" controls preload></audio><audio src="res/adain/min_4.wav" controls preload></audio>
