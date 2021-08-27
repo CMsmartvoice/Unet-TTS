@@ -49,7 +49,7 @@ OneShot-TTS + WaveRNN
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| ok           | <audio src="res/rtvc/mini_1.wav" controls preload></audio> | <audio src="res/rtvc/mini_1.wav" controls preload></audio> |
+| out of stock | <audio src="res/rtvc/mini_1.wav" controls preload></audio> | <audio src="res/rtvc/mini_1.wav" controls preload></audio> |
+| ok           | <audio src="res/rtvc/mini_1.wav" controls preload></audio> | <audio src="res/rtvc/mini_1.wav" controls preload></audio> |
+| ok           | <audio src="res/rtvc/mini_1.wav" controls preload></audio> | <audio src="res/rtvc/mini_1.wav" controls preload></audio> |
