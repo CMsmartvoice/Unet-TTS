@@ -20,8 +20,8 @@ OneShot-TTS + WaveRNN
 #### *Reference-1*
 <audio src="res/ref/qsy_src.wav" controls preload></audio>
 
-|    DEMO-1        | RTVC+GST | MyMethod | a |
-|:---------------  |:------------------|:--------------|:-----|
+|    DEMO-1        | RTVC+GST | MyMethod |
+|:---------------  |:------------------|:--------------|
 | same text as ref | <audio src="res/rtvc/qsy_1.wav" controls preload></audio> | <audio src="res/adain/qsy_1.wav" controls preload></audio> |
 | arbitrary text   | <audio src="res/rtvc/qsy_2.wav" controls preload></audio> | <audio src="res/adain/qsy_2.wav" controls preload></audio> |
 | arbitrary text   | <audio src="res/rtvc/qsy_3.wav" controls preload></audio> | <audio src="res/adain/qsy_3.wav" controls preload></audio> |
