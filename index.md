@@ -23,25 +23,25 @@ We tentatively show arbitrary text speech synthesized using our colleague's voic
 #### *Reference-1*
 请问台湾居民能否使用旅游签证乘坐国内航班
 
-<audio src="colleague/res/ref/qsy_src.wav" controls preload></audio>
+<audio src="res/colleague/ref/qsy_src.wav" controls preload></audio>
 
 |    DEMO-1        | GST-Tacotron | Unet-TTS |
 |:---------------: |:------------------:|:--------------:|
-| same text as ref | <audio src="colleague/res/rtvc/qsy_1.wav" controls preload></audio> | <audio src="colleague/res/adain/qsy_1.wav" controls preload></audio> |
-| arbitrary text 1   | <audio src="colleague/res/rtvc/qsy_2.wav" controls preload></audio> | <audio src="colleague/res/adain/qsy_2.wav" controls preload></audio> |
-| arbitrary text 2  | <audio src="colleague/res/rtvc/qsy_3.wav" controls preload></audio> | <audio src="colleague/res/adain/qsy_3.wav" controls preload></audio> |
-| arbitrary text 3  | <audio src="colleague/res/rtvc/qsy_4.wav" controls preload></audio> | <audio src="colleague/res/adain/qsy_4.wav" controls preload></audio> |
+| same text as ref | <audio src="res/colleague/rtvc/qsy_1.wav" controls preload></audio> | <audio src="res/colleague/adain/qsy_1.wav" controls preload></audio> |
+| arbitrary text 1   | <audio src="res/colleague/rtvc/qsy_2.wav" controls preload></audio> | <audio src="res/colleague/adain/qsy_2.wav" controls preload></audio> |
+| arbitrary text 2  | <audio src="res/colleague/rtvc/qsy_3.wav" controls preload></audio> | <audio src="res/colleague/adain/qsy_3.wav" controls preload></audio> |
+| arbitrary text 3  | <audio src="res/colleague/rtvc/qsy_4.wav" controls preload></audio> | <audio src="res/colleague/adain/qsy_4.wav" controls preload></audio> |
 
 
 
 #### *Reference-2*
 产业园这是一个第一期的这个，第一期的这个，建筑面积应该是两百四十三亩
 
-<audio src="colleague/res/ref/mini_src.wav" controls preload></audio>
+<audio src="res/colleague/ref/mini_src.wav" controls preload></audio>
 
 |    DEMO-2        | GST-Tacotron | Unet-TTS |
 |:---------------: |:------------------:|:--------------:|
-| same text as ref | <audio src="colleague/res/rtvc/mini_1.wav" controls preload></audio> | <audio src="colleague/res/adain/mini_1.wav" controls preload></audio> |
-| arbitrary text 1  | <audio src="colleague/res/rtvc/mini_2.wav" controls preload></audio> | <audio src="colleague/res/adain/mini_2.wav" controls preload></audio> |
-| arbitrary text 2  | <audio src="colleague/res/rtvc/mini_3.wav" controls preload></audio> | <audio src="colleague/res/adain/mini_3.wav" controls preload></audio> |
-| arbitrary text 3  | <audio src="colleague/res/rtvc/mini_4.wav" controls preload></audio> | <audio src="colleague/res/adain/mini_4.wav" controls preload></audio> |
+| same text as ref | <audio src="res/colleague/rtvc/mini_1.wav" controls preload></audio> | <audio src="res/colleague/adain/mini_1.wav" controls preload></audio> |
+| arbitrary text 1  | <audio src="res/colleague/rtvc/mini_2.wav" controls preload></audio> | <audio src="res/colleague/adain/mini_2.wav" controls preload></audio> |
+| arbitrary text 2  | <audio src="res/colleague/rtvc/mini_3.wav" controls preload></audio> | <audio src="res/colleague/adain/mini_3.wav" controls preload></audio> |
+| arbitrary text 3  | <audio src="res/colleague/rtvc/mini_4.wav" controls preload></audio> | <audio src="res/colleague/adain/mini_4.wav" controls preload></audio> |
