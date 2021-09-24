@@ -2,6 +2,9 @@
 Email: rayn.li@cloudminds.com
 
 Our proposed algorithm has powerful speaker and style transfer capabilities, especially excellent imitation of out-of-domain emotions.
+- No fine-tuning required, just a few seconds of target audio
+- Synthesize arbitrary text
+- Embedding pause, stess, and other speaking styles in speech
 
 [see demo](https://cmsmartvoice.github.io/Unet-TTS/)
 
