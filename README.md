@@ -1,7 +1,9 @@
 ## Unet-TTS: Improving Unseen Speaker and Style Transfer in One-shot Voice Cloning
 Email: rayn.li@cloudminds.com
 
-[demo](https://cmsmartvoice.github.io/Unet-TTS/)
+Our proposed algorithm has powerful speaker and style transfer capabilities, especially excellent imitation of out-of-domain emotions.
+
+[see demo](https://cmsmartvoice.github.io/Unet-TTS/)
 
 [paper link](https://arxiv.org/abs/2109.11115)
 
