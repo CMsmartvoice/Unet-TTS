@@ -11,10 +11,10 @@ One-shot voice cloning aims to transform speaker voice and speaking style in spe
 **We will soon release the source code.**
 
 ## Demo (One-shot Emotion Transfer)
-**Model Description:**
-**Unet-TTS** - Our proposed model
-**GST** - Tacotron with unsupervised style modeling of GST
-**SpkEmbed** - Tacotron with speaker embedding
+**Model Description:**  
+**Unet-TTS** - Our proposed model  
+**GST** - Tacotron with unsupervised style modeling of GST  
+**SpkEmbed** - Tacotron with speaker embedding  
 
 ## 1. Same Text as Reference
 
