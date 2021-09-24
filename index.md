@@ -136,3 +136,18 @@ These reference emotion speech to be transferred are unseen in the training proc
 |:---------------: |:------------:|:--------------:|
 | <audio src="res/test/non-parallel/sad01_gt.wav" controls preload></audio>  | <audio src="res/test/non-parallel/sad01_unet.wav" controls preload></audio> | <audio src="res/test/non-parallel/sad01_gst.wav" controls preload></audio> |
 | <audio src="res/test/non-parallel/sad02_gt.wav" controls preload></audio>  | <audio src="res/test/non-parallel/sad02_unet.wav" controls preload></audio> | <audio src="res/test/non-parallel/sad02_gst.wav" controls preload></audio> |
+
+## 3. Other
+- Ref1: 我必须一直通电才能工作
+- Ref2: 就经常去我们宿舍附近的酒吧
+- Ref3: 产业园这是一个第一期的这个，第一期的这个，建筑面积应该是两百四十三亩
+- Ref4: 请问台湾居民能否使用旅游签证乘坐国内航班
+
+- AT: 本音频由一句话风格迁移语音合成系统合成
+
+|    Description   |   Reference  |    Unet-TTS    |
+|:---------------: |:------------:|:--------------:|
+| Pause style | <audio src="res/other/pause_gt.wav" controls preload></audio>  | <audio src="res/other/pause_unet.wav" controls preload></audio>  |
+| Stress style | <audio src="res/other/stress_gt.wav" controls preload></audio>  | <audio src="res/other/stress_unet.wav" controls preload></audio>  |
+| PC Recording | <audio src="res/other/mini_gt.wav" controls preload></audio>  | <audio src="res/other/mini_unet.wav" controls preload></audio>  |
+| Phone recording | <audio src="res/other/qsy_gt.wav" controls preload></audio>  | <audio src="res/other/qsy_unet.wav" controls preload></audio>  |
