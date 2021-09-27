@@ -6,7 +6,7 @@ Our proposed algorithm has powerful speaker and style transfer capabilities, esp
 - Synthesize arbitrary text
 - Embedding pause, stess, and other speaking styles in speech
 
-[see demo](https://cmsmartvoice.github.io/Unet-TTS/)
+[see Mandarin demo](https://cmsmartvoice.github.io/Unet-TTS/)
 
 [paper link](https://arxiv.org/abs/2109.11115)
 
