@@ -11,7 +11,7 @@ Our proposed algorithm has powerful speaker and style transfer capabilities, esp
 - Synthesize arbitrary text
 - Embedding pause, stess, and other speaking styles in speech
 
-[Code]([notebook](https://github.com/CMsmartvoice/One-Shot-Voice-Cloning)) 
+[Code](https://github.com/CMsmartvoice/One-Shot-Voice-Cloning)
 
 [Colab notebook](https://colab.research.google.com/drive/1sEDvKTJCY7uosb7TvTqwyUdwNPiv3pBW#scrollTo=puzhCI99LY_a)
 
