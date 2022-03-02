@@ -8,7 +8,7 @@ Our proposed algorithm has powerful speaker and style transfer capabilities, esp
 
 [Code](https://github.com/CMsmartvoice/One-Shot-Voice-Cloning)
 
-[Colab notebook](https://colab.research.google.com/drive/1sEDvKTJCY7uosb7TvTqwyUdwNPiv3pBW#scrollTo=puzhCI99LY_a)
+[Colab notebook](https://colab.research.google.com/drive/1sEDvKTJCY7uosb7TvTqwyUdwNPiv3pBW?usp=sharing)
 
 [Mandarin results](https://cmsmartvoice.github.io/Unet-TTS/)
 
